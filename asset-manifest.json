@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/employee-manegment/static/css/main.723c9201.css",
-    "main.js": "/employee-manegment/static/js/main.e435ce00.js",
+    "main.js": "/employee-manegment/static/js/main.ba1702f7.js",
     "static/js/239.9b2a9a8d.chunk.js": "/employee-manegment/static/js/239.9b2a9a8d.chunk.js",
     "static/js/977.4d6e3e23.chunk.js": "/employee-manegment/static/js/977.4d6e3e23.chunk.js",
     "static/js/455.f79735cc.chunk.js": "/employee-manegment/static/js/455.f79735cc.chunk.js",
     "static/js/453.b9cdf29b.chunk.js": "/employee-manegment/static/js/453.b9cdf29b.chunk.js",
     "index.html": "/employee-manegment/index.html",
     "main.723c9201.css.map": "/employee-manegment/static/css/main.723c9201.css.map",
-    "main.e435ce00.js.map": "/employee-manegment/static/js/main.e435ce00.js.map",
+    "main.ba1702f7.js.map": "/employee-manegment/static/js/main.ba1702f7.js.map",
     "239.9b2a9a8d.chunk.js.map": "/employee-manegment/static/js/239.9b2a9a8d.chunk.js.map",
     "977.4d6e3e23.chunk.js.map": "/employee-manegment/static/js/977.4d6e3e23.chunk.js.map",
     "455.f79735cc.chunk.js.map": "/employee-manegment/static/js/455.f79735cc.chunk.js.map",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.723c9201.css",
-    "static/js/main.e435ce00.js"
+    "static/js/main.ba1702f7.js"
   ]
 }
